@@ -8,7 +8,8 @@ smallest_value =100000
     if value < smallest_value
       smallest_value = value
      end
-     name= name_smallest
+     name = smallest_value
+    
   end
-  puts name_smallest
+  puts smallest_value
 end
