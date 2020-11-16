@@ -7,9 +7,10 @@ smallest_value =100000
   name_hash.each do |name, value|
     if value < smallest_value
       smallest_value = value
+      name_smallest<< name = smallest_value
      end
    
    
   end
-
+name_smallest
 end
