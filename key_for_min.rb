@@ -11,5 +11,5 @@ smallest_value =100000
     name = smallest_value
    
   end
-smallest_value
+name
 end
