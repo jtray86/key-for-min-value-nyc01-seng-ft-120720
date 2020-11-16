@@ -8,7 +8,7 @@ smallest_value =100000
     if value < smallest_value
       smallest_value = value
      end
-     name[smallest_value] = name_smallest
+     name[value] = name_smallest
   end
   puts name_smallest
 end
